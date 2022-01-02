@@ -1,3 +1,6 @@
+#include<iostream>
+#include<bits/stdc++.h>
+using namespace std;
 class Solution{
     public:
     long long minTime(long long a[], long long b[], long long n)
